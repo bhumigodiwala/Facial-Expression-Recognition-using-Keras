@@ -6,4 +6,6 @@ In this project, we will build and train a convolutional neural network (CNN) in
 1) Build and train a model in Keras for Facial Expression Recognition.
 2) Deploy the model on web using FLASK and run it on videos.
 
+# Cost Function and Accuracy
 
+![image](https://user-images.githubusercontent.com/62346064/141665925-268961e8-62c6-4c95-921c-516f9dedff06.png)
